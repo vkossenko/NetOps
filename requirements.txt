@@ -4,7 +4,7 @@ PyVirtualDisplay==0.2.5
 biorad.lsg.cfx-device==12.0.0
 biorad.lsg.retry-decorators==0.0.5
 biorad.lsg.test-user-pool==2.0.0
-cryptography==3.2
+cryptography==3.3
 html-testRunner==1.2
 mss==5.0.0
 packaging==20.1
