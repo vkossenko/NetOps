@@ -1,7 +1,7 @@
 EasyProcess==0.2.8
 Pillow==8.3.2
 PyVirtualDisplay==0.2.5
-cryptography==3.3.2
+cryptography==39.0.1
 html-testRunner==1.2
 mss==5.0.0
 packaging==20.1
